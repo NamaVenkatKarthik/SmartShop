@@ -1,4 +1,6 @@
-# ShopSmart (Fullstack)
+# ShopSmart-Your-Digital-Grocery-Store-Experience(Fullstack)
+
+ShopSmart is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) e-commerce web application designed to provide a convenient and efficient online grocery shopping experience. It allows users to browse products, manage their cart, place orders, and enables administrators to manage products, users, and orders.
 
 This repository contains the full ShopSmart project with Backend and Frontend folders.
 
